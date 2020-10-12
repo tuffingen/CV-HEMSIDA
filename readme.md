@@ -1,0 +1,3 @@
+# planering  
+* komponenter
+  * header
